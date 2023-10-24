@@ -2,7 +2,7 @@
    
   **About Me**
 - 👀 I’m interested in Full-Stack Software Development
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning React and Flask
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me https://www.linkedin.com/in/michael-kiptoo
 
