@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Kiptoo</h1>
 <h3 align="center">I'm a passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React and Django**
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
-
-- 💬 Ask me about **React and Python**
 
 - 📫 How to reach me **michaelkiptoo2000@gmail.com**
 
