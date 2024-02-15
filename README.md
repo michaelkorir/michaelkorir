@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Kiptoo</h1>
 <h3 align="center">I'm a passionate Software Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkorir&label=Profile%20views&color=0e75b6&style=flat" alt="mmichaelkorir" /> </p>
+
 - 🌱 I’m currently learning **React and Django**
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
