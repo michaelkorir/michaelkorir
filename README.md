@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Kiptoo</h1>
 <h3 align="center">I'm a passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkorir&label=Profile%20views&color=0e75b6&style=flat" alt="mmichaelkorir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkorir&label=Profile%20views&color=0e75b6&style=flat" alt="Michael Korir" /> </p>
 
 - 🔭 I’m currently working on [Msaada Mashinani Donation Platform](#)
   
