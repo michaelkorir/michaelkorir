@@ -50,7 +50,7 @@
 
 <hr>
 
-<h3 align="left">🏆 Github Trophies:</h3>
+<h3 align="left">🏆 Github Trophies: </h3>
 	<p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=michaelkorir&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 </p>
