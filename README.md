@@ -13,6 +13,9 @@
 
 - 📫 How to reach me: **michaelkiptoo2000@gmail.com**
 
+ ### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
