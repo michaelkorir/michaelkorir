@@ -11,7 +11,7 @@
 
 - 💬 Ask me anything about : **Web Development, Python, Javascript**
 
-- 📫 How to reach me: **michaelkiptoo2000@gmail.com**
+- 📫 How to reach me: **kiptoomichael@outlook.com**
 
  ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
